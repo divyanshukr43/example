@@ -1,0 +1,82 @@
+body{
+    background-color: #FFCAD4;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.ab{
+    color: #2E2E2E;
+    font-family: fantasy;
+    background-color:#53001c ;
+    padding: 3rem;
+    height: 2px;
+    border: 1px solid rgba(255, 255, 255, 0.332);
+    border-radius: 20px;
+    background-color: rgba(219, 19, 19, 0.45);
+    box-shadow: 0 0 10px 1px rgb(0, 0, 0);
+  
+    backdrop-filter: blur(15px);
+}
+.des{
+    margin-right: 33rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    font-size: 1.3rem;
+}
+.subtext{
+    font-weight: bold;
+   
+}
+.aboutimg{
+display: inline-block;
+margin-bottom:25px;
+height:400px;
+width:400px;
+margin-left:40vw;
+margin-top:5vh;
+border-radius: 30px;
+}
+h3{
+    display:inline-block;
+  
+}
+.nav-link{
+    font-family:fantasy;
+}
+#nav-lk{
+  border: 2px solid white;
+  border-radius: 19px;
+  background-color: #2E2E2E ;
+  color: white;
+}
+
+
+.nav-link:hover{
+    transform: scale(1.12);
+}
+p1{
+    font-family:fantasy;
+    text-wrap:stable;
+    
+}
+.navbar-nav{
+    justify-content: center;
+    
+}
+.dropdown-item{
+    font-family:fantasy;
+    
+}
+.navbar{
+    background-color:#FF407D;
+}
+.what{
+    text-size-adjust: 70vw;
+}
+
+
+
+
